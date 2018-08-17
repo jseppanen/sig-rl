@@ -1,6 +1,10 @@
 
 # Machine Learning Special Interest Group in Ruoholahti
 
+* 2018-08-23 [Large-Scale Study of Curiosity-Driven Learning](https://arxiv.org/abs/1808.04355)
+
+## 2017–2018 semester
+
 * 2017-10-31 [Mastering the Game of Go without Human Knowledge](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)
 * 2017-11-09 [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 * 2017-11-17 [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
