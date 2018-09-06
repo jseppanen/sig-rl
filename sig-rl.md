@@ -1,6 +1,9 @@
 
 # Machine Learning Special Interest Group in Ruoholahti
 
+* 2018-09-20 [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755)
+* 2018-09-06 [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](https://arxiv.org/abs/1808.03867)
+* 2018-08-30 [Skill Rating for Generative Models](https://arxiv.org/abs/1808.04888)
 * 2018-08-23 [Large-Scale Study of Curiosity-Driven Learning](https://arxiv.org/abs/1808.04355)
 
 ## 2017–2018 semester
