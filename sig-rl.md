@@ -1,6 +1,11 @@
 
 # Machine Learning Special Interest Group in Ruoholahti
 
+* 2018-11-01 [ProMP: Proximal Meta-Policy Search](https://arxiv.org/abs/1810.06784)
+* 2018-10-25 [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039)
+* 2018-10-18 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+* 2018-10-11 [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
+* 2018-09-27 [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/abs/1807.11205)
 * 2018-09-20 [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755)
 * 2018-09-06 [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](https://arxiv.org/abs/1808.03867)
 * 2018-08-30 [Skill Rating for Generative Models](https://arxiv.org/abs/1808.04888)
