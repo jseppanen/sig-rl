@@ -1,6 +1,9 @@
 
 # Machine Learning Special Interest Group in Ruoholahti
 
+* [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://arxiv.org/abs/1810.08647)
+* 2018-11-15 [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)
+* 2018-11-08 [Episodic Curiosity through Reachability](https://arxiv.org/abs/1810.02274)
 * 2018-11-01 [ProMP: Proximal Meta-Policy Search](https://arxiv.org/abs/1810.06784)
 * 2018-10-25 [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039)
 * 2018-10-18 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
