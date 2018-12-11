@@ -1,7 +1,7 @@
 
 # Machine Learning Special Interest Group in Ruoholahti
 
-* [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://arxiv.org/abs/1810.08647)
+* 2018-12-13 [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
 * 2018-11-15 [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)
 * 2018-11-08 [Episodic Curiosity through Reachability](https://arxiv.org/abs/1810.02274)
 * 2018-11-01 [ProMP: Proximal Meta-Policy Search](https://arxiv.org/abs/1810.06784)
