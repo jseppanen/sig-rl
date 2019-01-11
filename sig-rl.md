@@ -1,7 +1,8 @@
 
 # Machine Learning Special Interest Group in Ruoholahti
 
-* 2018-12-20 [Measuring the Effects of Data Parallelism on Neural Network Training](https://arxiv.org/abs/1811.03600)
+* 2019-01-17 [An Empirical Model of Large-Batch Training](https://arxiv.org/abs/1812.06162)
+* 2019-01-10 [Measuring the Effects of Data Parallelism on Neural Network Training](https://arxiv.org/abs/1811.03600)
 * 2018-12-13 [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
 * 2018-11-15 [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)
 * 2018-11-08 [Episodic Curiosity through Reachability](https://arxiv.org/abs/1810.02274)
