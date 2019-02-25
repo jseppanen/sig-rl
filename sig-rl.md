@@ -1,6 +1,9 @@
 
 # Machine Learning Special Interest Group in Ruoholahti
 
+* 2019-02-28 [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
+* 2019-02-14 [Pay Less Attention with Lightweight and Dynamic Convolutions](https://arxiv.org/abs/1901.10430)
+* 2019-02-07 [Lagging Inference Networks and Posterior Collapse in Variational Autoencoders](https://arxiv.org/abs/1901.05534)
 * 2019-01-17 [An Empirical Model of Large-Batch Training](https://arxiv.org/abs/1812.06162)
 * 2019-01-10 [Measuring the Effects of Data Parallelism on Neural Network Training](https://arxiv.org/abs/1811.03600)
 * 2018-12-13 [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
