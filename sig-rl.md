@@ -1,6 +1,10 @@
 
 # Machine Learning Special Interest Group in Ruoholahti
 
+* 2019-05-09 [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+* 2019-05-02 [Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846)
+* 2019-04-25 [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187)
+* 2019-03-07 [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 * 2019-02-28 [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
 * 2019-02-14 [Pay Less Attention with Lightweight and Dynamic Convolutions](https://arxiv.org/abs/1901.10430)
 * 2019-02-07 [Lagging Inference Networks and Posterior Collapse in Variational Autoencoders](https://arxiv.org/abs/1901.05534)
