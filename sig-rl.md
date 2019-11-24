@@ -1,6 +1,13 @@
 
 # Machine Learning Special Interest Group in Ruoholahti
 
+* 2019-11-28 [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+* 2019-11-21 [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
+* 2019-10-10 [Semi-supervised Learning by Coaching](https://openreview.net/forum?id=rJe04p4YDB)
+* 2019-10-03 [LCA: Loss Change Allocation for Neural Network Training](https://arxiv.org/abs/1909.01440)
+* 2019-09-12 [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)
+* 2019-08-22 [On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)
+* 2019-06-06 [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
 * 2019-05-09 [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 * 2019-05-02 [Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846)
 * 2019-04-25 [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187)
